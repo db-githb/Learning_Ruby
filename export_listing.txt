@@ -1,0 +1,6 @@
+Tablet, 9hrs, 3947t4f, blue, Google, used, 2017, 250$, {activity tracker,tooth,water resistant}
+Smartwatch, 9hrs, 3947t4G, blue, LG, used, 2017, 250$, {activity tracker,tooth,water resistant}
+Smartwatch, 9hrs, 3947t4f, blue, LG, used, 2017, 250$, {activity tracker,tooth,water resistant}
+Smartwatch, 9hrs, 3947t4f, blue, LG, used, 2017, 250$, {activity tracker,tooth,water resistant}
+Smartwatch, 9hrs, 3947t4f, blue, Lenovo, used, 2017, 250$, {activity tracker,tooth,water resistant}
+Laptop, 9hrs, 3947t4f, blue, Samsung, used, 2017, 250$, {activity tracker,tooth,water resistant}
